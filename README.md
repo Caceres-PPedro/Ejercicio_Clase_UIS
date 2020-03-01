@@ -1,7 +1,7 @@
 # Ejercicio_Clase_UIS
 
-## Gráfica_ Mapas con R.
+### Gráfica_ Mapas con R.
 
-### Ver **.pdf**
+#### Ver **.pdf**
 
-### **Descargar .html, .docx
+#### **Descargar .html, .docx
